@@ -1,0 +1,18 @@
+{
+  "id": "user-management-tool",
+  "title": "User Management Tool",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13.340",
+    "verified": "13.340"
+  },
+  "authors": [
+    {
+      "name": "AceKokuren",
+      "discord": "acekokuren",
+      "flags": {},
+	  "url": "https://github.com/AceKokuren"
+    }
+  ],
+  "url": "https://github.com/AceKokuren/user-management-tool"
+}
