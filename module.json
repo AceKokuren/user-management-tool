@@ -14,5 +14,8 @@
 	  "url": "https://github.com/AceKokuren"
     }
   ],
-  "url": "https://github.com/AceKokuren/user-management-tool"
+  "url": "https://github.com/AceKokuren/user-management-tool",
+  "scripts": [
+    "esmodules/script.js"
+  ]
 }
